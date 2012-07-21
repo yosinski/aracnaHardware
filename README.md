@@ -12,7 +12,7 @@ Renderings and 3D Printed Robots
 Version 1
 --------------------
 
-For design files, see the (aracnaV1)[https://github.com/yosinski/aracnaHardware/tree/master/aracnaV1] directory.
+For design files, see the [aracnaV1](https://github.com/yosinski/aracnaHardware/tree/master/aracnaV1) directory.
 
 [![aracna_v1_cad](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_cad.png)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_cad.png)
 
@@ -23,7 +23,7 @@ Version 2
 
 [![aracna_v2_cad](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)
 
-Printe in green
+Printed in green
 
 [![aracna_v2_green](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green.800.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green.jpg)
 
