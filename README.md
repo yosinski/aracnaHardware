@@ -9,12 +9,14 @@ This repository contains the files necessary to print the [Aracna](http://creati
 3D Printed
 ====================
 
-### Version 1
+Version 1
+--------------------
 
 [![aracna_v1_cad](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_cad.png)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_cad.png)
 
 [![aracna_v1_yellow_legup](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_yellow_legup.800.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v1_yellow_legup.jpg)
 
-### Version 2
+Version 2
+--------------------
 
 [![aracna_v2_cad](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)
