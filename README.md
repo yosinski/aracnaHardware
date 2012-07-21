@@ -22,3 +22,11 @@ Version 2
 --------------------
 
 [![aracna_v2_cad](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_cad.jpg)
+
+Printe in green
+
+[![aracna_v2_green](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green.800.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green.jpg)
+
+Underside of Aracna V2, showing the leg mechanism
+
+[![aracna_v2_green_under](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green_under.800.jpg)](https://github.com/yosinski/aracnaHardware/raw/master/pics/aracna_v2_green_under.jpg)
