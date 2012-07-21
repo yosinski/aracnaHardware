@@ -6,8 +6,8 @@ This repository contains the files necessary to print the [Aracna](http://creati
 
 
 
-3D Printed
-====================
+Renderings and 3D Printed Robots
+================================
 
 Version 1
 --------------------
