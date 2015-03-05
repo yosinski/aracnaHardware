@@ -2,7 +2,7 @@ Aracna Hardware
 =====================
 
 
-This repository contains the files necessary to print the [Aracna](http://creativemachines.cornell.edu/aracna) robot. For drivers, see the [aracna branch](https://github.com/yosinski/QuadraTot/tree/aracna) of the QuadraTot repository.
+This repository contains the files necessary to print the [Aracna](http://creativemachines.cornell.edu/aracna) robot. For drivers, see the related [aracna](https://github.com/CreativeMachinesLab/aracna) repository.
 
 
 
